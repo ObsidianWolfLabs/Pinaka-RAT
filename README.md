@@ -1,4 +1,5 @@
-## Pinaka-RAT
+<h1>Pinaka-RAT</h1> 
+RAT developed in python for Windows OS to perform red-teaming excercises to define the extent of vulnerabvility.
 
 ## Objective  
 This project focuses on understanding and simulating adversary techniques in a **controlled, isolated lab environment** to improve blue-team detection and incident response capabilities. The aim was to design a proof-of-concept endpoint control and monitoring framework to explore concepts like command-and-control (C2) communication, data collection, and automation.  
