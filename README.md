@@ -1,4 +1,4 @@
-## ##Pinaka-RAT
+## Pinaka-RAT
 
 ## Objective  
 This project focuses on understanding and simulating adversary techniques in a **controlled, isolated lab environment** to improve blue-team detection and incident response capabilities. The aim was to design a proof-of-concept endpoint control and monitoring framework to explore concepts like command-and-control (C2) communication, data collection, and automation.  
